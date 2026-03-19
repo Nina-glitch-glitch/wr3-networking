@@ -7,7 +7,9 @@
 3. Open a terminal in the project folder
 4. Run:
 
+```bash
 python socket_example.py
+```
 
 
 ## Reflection
