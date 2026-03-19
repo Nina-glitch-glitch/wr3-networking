@@ -12,6 +12,7 @@ This project demonstrates how to resolve a hostname into an IP address using Pyt
 
 ```bash
 python socket_example.py
+```
 
 ## Reflection
 
