@@ -13,7 +13,7 @@ This project demonstrates how to resolve a hostname into an IP address using Pyt
 ```bash
 python socket_example.py
 
-***Reflection***
+## Reflection
 
 In this module, I gained a much better understanding of how networking actually works. The explanation comparing it to a customer placing an order helped me a lot. The browser acts like the customer, HTTP is like the waiter taking the order, and the web server is the kitchen preparing the response. Before the request can be sent, the hostname must first be translated into an IP address using TCP/IP.
 
