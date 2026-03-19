@@ -10,7 +10,7 @@ This project demonstrates how to resolve a hostname into an IP address using Pyt
 2. Open a terminal in the project folder  
 3. Run the script with:
 
-```bash
+```
 python socket_example.py
 ```
 
