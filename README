@@ -1,0 +1,19 @@
+# Work Requirement 3 – Networking
+
+## How to run the project
+
+1. Make sure Python 3 is installed
+2. Open the project in VS Code
+3. Open a terminal in the project folder
+4. Run:
+
+python socket_example.py
+
+
+## Reflection
+
+In this module, I gained a much better understanding of how networking actually works. The explanation comparing it to a customer placing an order helped me a lot. The browser acts like the customer, HTTP is like the waiter taking the order, and the web server is the kitchen preparing the response. Before the request can be sent, the hostname must first be translated into an IP address using TCP/IP.
+
+Using Python and the socket module made this much more concrete. I tested different hostnames such as vg.no, nrk.no and google.com, and noticed that these websites can resolve to different IP addresses because large services use multiple servers to handle traffic. I also tested my own machine and saw that it returned a local IP address.
+
+One topic I would like to explore further is the client/server model and how HTTP requests are handled in practice. This will be useful for my exam, where I will use Flask to build a web application and connect the frontend and backend.
