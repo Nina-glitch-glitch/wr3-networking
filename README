@@ -1,15 +1,16 @@
-***Work Requirement 3 – Networking***
+# Work Requirement 3 – Networking
 
-***Overview***
+## Overview
 
 This project demonstrates how to resolve a hostname into an IP address using Python and the socket module. The goal is to understand basic networking concepts such as TCP/IP, the client/server model, and how Python can interact with the network using sockets.
 
-***How to Run***
+## How to Run
 
-1. Make sure Python 3 is installed.
-2. Open a terminal in the project folder.
+1. Make sure Python 3 is installed  
+2. Open a terminal in the project folder  
 3. Run the script with:
 
+```bash
 python socket_example.py
 
 ***Reflection***
